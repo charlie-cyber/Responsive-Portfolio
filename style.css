@@ -1,0 +1,103 @@
+.blondelocs {
+    width: 350px;
+    height: 375px;
+border: white;
+margin: 20px;
+padding: 10px;
+background: wheat;
+flex:auto 0 ;
+}
+​
+section {
+    background: wheat;
+    padding: 30px;
+    margin: 30px;
+    width: 1000px;
+    height: 500px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+​
+#header {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: teal;
+    color: whitesmoke;
+    width: auto;
+    margin-bottom: auto 0;
+    padding: auto;
+    border: auto;
+}
+​
+.name {
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #cccccc;
+}
+​
+#footer {
+    background: teal;
+    padding: 30px;
+    /* margin: 30px; */
+    font-size: 20px;
+    margin-bottom: 0;
+    width: auto;
+    color: whitesmoke;
+}
+​
+.Firstbox {
+    padding: 20px;
+    margin: 20px;
+    background: grey;
+    width: 200px;
+    height: 250px;
+    float :left;} 
+​
+.Sndbox {
+    padding: 20px;
+    margin: 20px;
+    background: black;
+    width: 200px;
+    height: 250px;
+    float : left; 
+}
+.Trdbox {
+    padding: 20px;
+    margin: 20px;
+    background: rgb(255, 136, 0);
+    width: 200px;
+    height: 250px;
+    float :right;
+}
+​
+.Fthbox {
+    padding: 20px;
+    margin: 20px;
+    background: rgb(105, 115, 255);
+    width: 200px ;
+    height: 250px ;
+    float :right;
+}
+.Fithbox {
+    padding: 20px;
+    margin: 20px;
+    background:green;
+    width: 200px;
+    height: 250px;
+    float :right;
+}
+#contact-form {
+    background: wheat;
+    padding: 30px;
+    margin: 30px;
+    height: 500px;
+}
+#pictures { 
+    background: wheat;
+    padding: 30px;
+    margin: 30px;
+    height: 500px;
+    width: auto 0 ;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
